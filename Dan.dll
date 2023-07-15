@@ -1,4 +1,49 @@
-library Dan { public function DanShow() { 
-    char DanShow;
-    cout << DanShow ; 
- } }
+// Your First Program
+
+#include <iostream>
+
+using namespace std;
+
+
+class DanShow {
+    public static void main(String[] args) {
+        System.out.println("Starting DANShow..."); 
+    }
+}
+
+int main() {
+    for (int i = 1; i <= 10; ++i) {
+        cout <<  "Adding More Dans" << endl;
+    }
+    return 0;
+}
+
+int main() {
+    for (int i = 1; i <= 10; ++i) {
+        cout <<  "Starting Danplane Stream..." << endl;
+    }
+    return 0;
+}
+class DanShow {
+    public static void main(String[] args) {
+        System.out.println("Started Danplane Stream..."); 
+    }
+}
+
+int main() {
+    for (int i = 1; i <= 10; ++i) {
+        cout <<  "Starting Youtube Stream..." << endl;
+    }
+    return 0;
+}
+class DanShow {
+    public static void main(String[] args) {
+        System.out.println("Started Youtube Stream..."); 
+    }
+}
+
+class DanShow {
+    public static void main(String[] args) {
+        System.out.println("Started DANShow!"); 
+    }
+}
