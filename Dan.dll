@@ -27,12 +27,39 @@ class DanShow {
         System.out.println("Started Danplane Stream..."); 
     }
 }
-
+class DanShow {
+    public static void main(String[] args) {
+        System.out.println("resuming selected..."); 
+    }
+}
 int main() {
     for (int i = 1; i <= 10; ++i) {
         cout <<  "Starting Youtube Stream..." << endl;
     }
     return 0;
+}
+class DanShow {
+    public static void main(String[] args) {
+        System.out.println("Started Twitch Stream..."); 
+    }
+}
+
+int main() {
+    for (int i = 1; i <= 10; ++i) {
+        cout <<  "Starting Twitch Stream..." << endl;
+    }
+    return 0;
+}
+int main() {
+    for (int i = 1; i <= 10; ++i) {
+        cout <<  "Starting kick Stream..." << endl;
+    }
+    return 0;
+}
+class DanShow {
+    public static void main(String[] args) {
+        System.out.println("Started kick Stream..."); 
+    }
 }
 class DanShow {
     public static void main(String[] args) {
