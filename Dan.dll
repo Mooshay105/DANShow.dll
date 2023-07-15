@@ -1,0 +1,4 @@
+library Dan { public function DanShow() { 
+    char DanShow;
+    cout << DanShow ; 
+ } }
